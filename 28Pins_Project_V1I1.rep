@@ -1,0 +1,48 @@
+CSV text has been written to file : 28Pins_Project_V1I1.csv
+
+Library Component Count : 41
+
+Name                Description
+----------------------------------------------------------------------------------------------------
+
+10118193-0001LF     FCI Right Angle Surface Mount Mount Female USB Connector; 100 V ac; 1.8A
+1825910-6           Switch Tactile OFF (ON) SPST Round Button PC Pins 0.05A 24VDC 1.57N Thru-Hole Loose
+4828-3004-CP        Socket DIP 28Cnts DualWipe 0.3InSpc. PhosphorBronze Nickel KinkedTail 4800Series | 3M 4828-3004-CP
+67997-106HLF        Conn Unshrouded Header HDR 6 POS 2.54mm Solder ST Top Entry Thru-Hole BergStik® Bulk
+68000-103HLF        Conn Unshrouded Header HDR 3 POS 2.54mm Solder ST Top Entry Thru-Hole BergStik® Automotive Bulk
+68001-204HLF        Conn Unshrouded Header HDR 4 POS 2.54mm Solder ST Thru-Hole Bag
+68602-204HLF        Conn Unshrouded Header HDR 4 POS 2.54mm Solder ST Top Entry Thru-Hole BergStik® Bulk
+ABM7-10.000MHZ-D2Y-TCrystal 10MHz ±20ppm (Tol) ±30ppm (Stability) 18pF FUND 80Ohm 2-Pin Mini-CSMD T/R
+ABM7-16.000MHZ-D2Y-TCrystal 16MHz ±20ppm (Tol) ±30ppm (Stability) 18pF FUND 50Ohm 2-Pin Mini-CSMD T/R
+ABM7-8.000MHZ-D2Y-T Crystal 8MHz ±20ppm (Tol) ±30ppm (Stability) 18pF FUND 100Ohm 2-Pin Mini-CSMD T/R
+APT1608LZGCK        Green 525nm LED Indication - Discrete 2.65V 0603 (1608 Metric)
+ATMEGA16U2-AU       Risc Microcontroller, 8-BIT, Flash, AVR Risc Cpu, 16MHZ, Cmos, PQFP32
+ATMEGA328P-PU       Microchip - ATMEGA328P-PU - Microcontroller Mcu, 8 Bit, Atmega, 20MHZ, DIP-28
+BAT54HT1G           Small Signal Schottky Diode, Single, 30 V, 200 Ma, 800 Mv, 600 Ma, 150 C
+C0805C180J5GACTU    SMD Comm C0G 0805 (2012Metric) Ceramic Capacitor 0.079Lx0.049W 2.00mmx1.25mm C0G NP0 ±5% 18pF
+C2012X5R1E105K125AA CAP CER 1UF 25V X5R 0805
+C2012X7R1H104K085AA Multilayer Ceramic Capacitor, 0.1 uF, 50 V, ± 10%, X7R, 0805 [2012 Metric]
+CG0603MLC-05E       ESD Suppressor Multilayer Varistor 5V Automotive 2-Pin Case 0603(1608Metric) T/R
+CGA4J1X5R1C106M125ACMultilayer Ceramic Capacitor, 10 uF, 16 V, ± 20%, X5R, 0805 [2012 Metric]
+CSL1901DW1          LED Uni-Color Orange 2-Pin Chip 0603(1608Metric) T/R
+Component_1         
+DFE201610P-2R2M=P2  Inductor Power Shielded Wirewound 2.2uH 20% 1MHz Metal 1.4A 0.168Ohm DCR 0806 T/R
+EEE-1AA101WR        Aluminum Electrolytic Capacitor, 100 uF, 10 V, ± 20%, 1000 hours @ 85°C, Radial Can - SMD
+FID_1MMC            Fiducial 40mil Diameter, 120mil Mask
+M20-7820646         2.54mm (0.1") Pitch SIL Vertical PC Tail Socket Assembly, tin, 6 contacts
+M20-7820842         2.54mm (0.1") Pitch SIL Vertical PC Tail Socket Assembly, selective gold + tin, 8 contacts
+M20-7821046         2.54mm (0.1") Pitch SIL Vertical PC Tail Socket Assembly, tin, 10 contacts
+MH_7.4MMC_3.2MMD    Mounting Hole 7.4mm Diameter, 3.2mm Drill
+MH_7.4MMNC_3.2MMD   Hole 7.4mm Diameter (Non Copper), 3.2mm Drill NPTH
+MPZ2012S601AT000    Ferrite Beads Multi-Layer Power 600Ohm 25% 100MHz 2A 100mOhm DCR 0805 T/R
+PAD_WITH_HOLE_4mmx1.5mmPad with a hole 4mmx1.5mm
+QPC02SXGN-RC        2 Position 2.54 mm Centerline Single Circuit Open Top Jumper
+RC0805FR-07100KL    125Mw Thick Film Resistors 100Ppm/ 1% 100K 0805 Chip Resistor Surface Mount Rohs
+RC0805FR-0710KL     Res Thick Film 0805 10K Ohm 1% 0.125W(1/8W) +/-100ppm/C Epoxy Pad SMD T/R
+RC0805FR-071KL      125Mw Thick Film Resistors 100Ppm/ 1% 1K 0805 Chip Resistor Surface Mount Rohs
+RC0805FR-071ML      125Mw Thick Film Resistors 100Ppm/ 1% 1M 0805 Chip Resistor Surface Mount Rohs
+RC0805FR-0722RL     SMD Chip Resistor, 22 Ohm, ± 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+RC0805FR-07560RL    Res General Purpose Thick Film 0805 560 Ohm 1% 1/8W ±100ppm/°C Molded Paper T/R
+RC0805JR-070RL      GENERAL PURPOSE CHIP RESISTOR Metal Glaze/thick Film, 0.125W, 0ohm, Surface Mount, 0805
+SN74AHC1G09DBVR     1-ch, 2-input 2-V to 5.5-V high-speed (9 ns) AND gate with open-drain outputs 5-SOT-23 -55 to 125
+TL1963A-33DCQR      LDO Regulator Pos 3.3V 1.5A 6-Pin(5+Tab) SOT-223 T/R
