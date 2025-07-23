@@ -2,7 +2,10 @@
 
 This repository contains a complete **Arduino Uno Rev3 PCB design** based on the reference design from **Fedevel Academy**. It includes the full **schematic**, **PCB layout**, **assembly files**, **BOM (Bill of Materials)**, and **3D views**.
 
+As part of my learning process, I manually recreated the schematic and implemented the PCB layout in Altium Designer. This project was intended as a personal exercise in schematic capture, layout, DRC management, variant handling, and preparing manufacturing outputs.
+
 The goal of this project is to provide a **custom PCB design** that replicates the Arduino Uno Rev3 form factor and features, while offering a more professional approach to designing Arduino-based boards.
+
 
 ## Features
 - Fully compatible with **Arduino Uno Rev3**
